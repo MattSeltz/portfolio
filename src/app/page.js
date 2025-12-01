@@ -45,7 +45,7 @@ const Portfolio = () => {
       description:
         "Landing page de la empresa de alquiler de lujo 'Eleven Prestige'",
       tech: ["React", "MongoDB", "Node.js"],
-      link: "#",
+      link: "https://eleven-pro.vercel.app",
     },
     {
       title: "Ushuaia Extremo",
@@ -96,7 +96,7 @@ const Portfolio = () => {
 
   const experience = [
     {
-      year: "2021 - Presente",
+      year: "2023 - Presente",
       title: "Full Stack Developer",
       company: "Autónomo",
       description: `He trabajado de forma independiente desarrollando sitios web y aplicaciones personalizadas para empresas y emprendedores. Mis proyectos incluyen landing pages corporativas, plataformas con autenticación y paneles de administración, e-commerce y herramientas interactivas.
