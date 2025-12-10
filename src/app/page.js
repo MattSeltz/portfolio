@@ -29,11 +29,23 @@ const Portfolio = () => {
 
   const skills = {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "PostgreSQL", "MongoDB", "REST APIs"],
+    backend: ["Node.js", "PostgreSQL", "MongoDB", "REST APIs", "NestJS"],
     tools: ["Git", "Docker"],
   };
 
   const projects = [
+    {
+      title: "Plantillas E-commerce",
+      description: "E-commerce de plantillas",
+      tech: ["Next.js", "TypeScript", "Framer Motion"],
+      link: "https://plantillas.mati-seltzer.com",
+    },
+    {
+      title: "Vet Schedule",
+      description: "Calendario de turnos para la veterinaria de Rick",
+      tech: ["Next.js", "NestJS", "PostgreSQL"],
+      link: "https://github.com/MattSeltz/rick-calendario",
+    },
     {
       title: "Skill Up",
       description: "Landing page de la startup 'Skill Up'",
