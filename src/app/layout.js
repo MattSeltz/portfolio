@@ -14,9 +14,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "Matías Seltzer - Full Stack Developer",
+  title: "Matías Seltzer - Backend Developer",
   description:
-    "Portfolio de Matías Seltzer - Desarrollador Full Stack especializado en React, Next.js y tecnologías web modernas",
+    "Matías Seltzer | Backend Developer especializado en Node.js, Express, React y NextJS.",
 };
 
 export default function RootLayout({ children }) {
